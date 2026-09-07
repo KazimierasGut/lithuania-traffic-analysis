@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Large source and generated datasets
+data/raw/
+data/processed/
+*.zip
+
+# Local configuration and secrets
+.env
+.vscode/
+
+# Log files
+*.log
